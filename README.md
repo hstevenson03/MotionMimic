@@ -45,11 +45,8 @@ To use MotionMimic, run the program in Processing. When the camera feed is displ
 
 Import Libraries 
 
-<img width="268" alt="Screenshot 2024-11-06 at 2 11 45 pm" src="https://github.com/user-attachments/assets/119729f4-b78d-4261-af75-7c51b29467ea">
-
 Variables
 
-<img width="467" alt="Screenshot 2024-11-06 at 2 12 25 pm" src="https://github.com/user-attachments/assets/d7cbc1b1-8841-4e8d-aced-81fbb6f91375">
 
 Setup Function
 
