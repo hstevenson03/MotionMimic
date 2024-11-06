@@ -10,6 +10,7 @@
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 ## General Information
@@ -42,6 +43,9 @@ The project requires Processing and the OpenCV library for Processing. Follow th
 ## Usage
 To use MotionMimic, run the program in Processing. When the camera feed is displayed, use your hands to create circular gestures in front of the camera. The application will detect these gestures and generate colorful circles on the screen.
 
+## Acknowledgements
+get from reference list
+
 ## Project Status
 Project is: _complete_. This project has successfully reached its intended goal of using hand gesture recognition to create art.
 
@@ -52,6 +56,6 @@ Project is: _complete_. This project has successfully reached its intended goal 
 To do:
 - Implement functionality to create circles in different parts of the screen for various colors to appear, making it easier to create diverse and dynamic projects.
 - Enhance the user interface to allow users to select color schemes or patterns for their artwork.
-  
+
 ## Contact
 Created by [@hstevenson03](https://github.com/hstevenson03) - feel free to contact me!
