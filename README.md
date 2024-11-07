@@ -1,5 +1,5 @@
 # MotionMimic
-> MotionMimic is an interactive art creation application that utilizes gesture recognition to generate colorful circles on the screen. Users can create unique artwork by simply detecting hand gestures.
+> MotionMimic is an interactive art creation application that utilises gesture recognition to generate colorful circles on the screen. Users can create unique artwork by simply detecting hand gestures.
 
 ## Table of Contents
 * [General Information](#general-information)
