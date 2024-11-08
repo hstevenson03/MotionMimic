@@ -41,8 +41,7 @@ The project requires Processing and the OpenCV library for Processing. Follow th
 4. Open the MotionMimic.pde file in Processing.
 
 ## Usage
-To use MotionMimic, run the program in Processing. When the camera feed is displayed, use your hands to create circular gestures in front of the camera. The application will detect these gestures and generate colorful circles on the screen.
-
+To use MotionMimic, run the program in Processing. Once the camera feed is displayed, make circular gestures in front of the camera. To ensure the gesture is detected and new circles continue to appear on the screen, adjust your hand movements accordingly.
 Import Libraries
 
 <img width="642" alt="Screenshot 2024-11-07 at 1 52 51 pm" src="https://github.com/user-attachments/assets/966dde56-378f-4307-ba20-28d7a0582546">
