@@ -44,41 +44,58 @@ The project requires Processing and the OpenCV library for Processing. Follow th
 To use MotionMimic, run the program in Processing. Once the camera feed is displayed, make circular gestures in front of the camera. To ensure the gesture is detected and new circles continue to appear on the screen, adjust your hand movements accordingly.
 Import Libraries
 
-<img width="642" alt="Screenshot 2024-11-07 at 1 52 51 pm" src="https://github.com/user-attachments/assets/966dde56-378f-4307-ba20-28d7a0582546">
+
 
 
 Variables
 
-<img width="703" alt="Screenshot 2024-11-07 at 1 56 52 pm" src="https://github.com/user-attachments/assets/b6904dfd-191f-4a6c-9e5a-f702d11a0215">
+
 
 
 Setup Function
 
-<img width="572" alt="Screenshot 2024-11-07 at 1 57 14 pm" src="https://github.com/user-attachments/assets/4d74571f-783c-4cda-b2e8-3bd2e64fbcf1">
+
 
 
 Main Drawing Function
 
-<img width="712" alt="Screenshot 2024-11-07 at 1 58 25 pm" src="https://github.com/user-attachments/assets/2468bb7d-28da-4c74-8cc4-58469ddd13d0">
+
 
 
 Circle Detection Logic
 
-<img width="1034" alt="Screenshot 2024-11-07 at 2 02 15 pm" src="https://github.com/user-attachments/assets/e441f26f-a8c7-4a8a-83c9-562f32bf656c">
+
 
 
 Display Artwork Circles
 
-<img width="598" alt="Screenshot 2024-11-07 at 2 08 57 pm" src="https://github.com/user-attachments/assets/49a7b155-df03-4f25-8b3d-2a2ac340d2b3">
+
 
 
 Circle Class
 
-<img width="616" alt="Screenshot 2024-11-07 at 2 09 22 pm" src="https://github.com/user-attachments/assets/f55f5481-dcb4-46aa-a31d-3d8ad2d77ba3">
+
 
 
 ## Acknowledgements
-get from reference list
+Ishmael Perez . (2019). GitHub - ishfulthinking/Python-Hand-Gesture-Recognition: A guide to using Python and OpenCV2 to create an application that can recognize hand gestures/movements. GitHub. https://github.com/ishfulthinking/Python-Hand-Gesture-Recognition?tab=readme-ov-file#step-1a-import-libraries-and-create-global-variables
+
+Bleed AI Academy. (2021, May 25). Contour Detection In OpenCV 101 (1/3): The Basics. YouTube. https://www.youtube.com/watch?v=JfaZNiEbreE
+
+Goncharov, I. (2022, March 14). Custom Hand Gesture Recognition with Hand Landmarks Using Google’s Mediapipe + OpenCV in Python. Www.youtube.com. https://www.youtube.com/watch?v=a99p_fAr6e4
+gsnikitin.(2017, April 4). OpenCV circles detection with threshold, edges and contours in Python. YouTube. https://www.youtube.com/watch?v=P4RgDyP4evQ
+
+Hassan, M. (2019, November 10). How to Detect Shapes with OpenCV [Python]. Www.youtube.com. https://www.youtube.com/watch?v=Wl11eloYVm8
+
+Knowledge, P. (2019). OpenCV Python Tutorial For Beginners 24 - Motion Detection and Tracking Using Opencv Contours [YouTube Video]. In YouTube. https://www.youtube.com/watch?v=MkcUgPhOlP8
+
+LearnOpenCV. (2024, February 26). Image Thresholding in OpenCV. YouTube. https://www.youtube.com/watch?v=BA00xTv5-Z4
+
+Matthes, E. (n.d.). Beginner’s Python Cheat Sheet Variables and Strings.
+
+Matthes, E. (2023). Python Crash Course, 3rd Edition. No Starch Press.OpenCV. (n.d.). 
+
+OpenCV: Image Thresholding. Docs.opencv.org. https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html
 
 ## Project Status
 Project is: _complete_. This project has successfully reached its intended goal of using hand gesture recognition to create art.
