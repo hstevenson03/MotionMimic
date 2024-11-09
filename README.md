@@ -44,36 +44,46 @@ The project requires Processing and the OpenCV library for Processing. Follow th
 To use MotionMimic, run the program in Processing. Once the camera feed is displayed, make circular gestures in front of the camera. To ensure the gesture is detected and new circles continue to appear on the screen, adjust your hand movements accordingly.
 Import Libraries
 
-
+<img width="718" alt="Screenshot 2024-11-09 at 8 58 13 pm" src="https://github.com/user-attachments/assets/98b11e57-c540-465d-be15-25b667a3b188">
 
 
 Variables
 
+<img width="1063" alt="Screenshot 2024-11-09 at 8 59 20 pm" src="https://github.com/user-attachments/assets/e012704b-9235-437f-9efb-01b8ac868443">
 
 
 
 Setup Function
+
+<img width="755" alt="Screenshot 2024-11-09 at 9 01 06 pm" src="https://github.com/user-attachments/assets/595e8b58-ae10-4cac-89d5-aa453f7d5688">
 
 
 
 
 Main Drawing Function
 
+<img width="1033" alt="Screenshot 2024-11-09 at 9 02 52 pm" src="https://github.com/user-attachments/assets/6cab2947-8a6d-44e1-883d-98ddf4befb3d">
+
 
 
 
 Circle Detection Logic
+
+<img width="854" alt="Screenshot 2024-11-09 at 9 03 49 pm" src="https://github.com/user-attachments/assets/bb987a83-004f-4681-855d-fe4f84591c5b">
 
 
 
 
 Display Artwork Circles
 
+<img width="364" alt="Screenshot 2024-11-09 at 9 04 48 pm" src="https://github.com/user-attachments/assets/54aa5b5e-63aa-4f8c-bd39-c053ff054e81">
+
 
 
 
 Circle Class
 
+<img width="762" alt="Screenshot 2024-11-09 at 9 05 15 pm" src="https://github.com/user-attachments/assets/57f309f1-ce8d-4c35-b0bf-66658944c02c">
 
 
 
